@@ -7,7 +7,7 @@ yolo task=detect mode=train model=yolov8n.yaml batch=-1 workers=8 data="COD-5_64
 
 yolo task=detect mode=val model='CONVERGED_WEIGHTS/best.pt' data="DOD-5_moderate_augmentation/data_val.yaml"
 
-- to run yolov8 on the jatson-nano board follow the guides: 
+- to run yolov8 on the Jetson nano board follow the guides: 
 
    1) https://docs.ultralytics.com/guides/nvidia-jetson/#why-should-i-use-tensorrt-for-deploying-yolov8-on-nvidia-jetson
 
