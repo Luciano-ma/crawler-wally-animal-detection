@@ -35,3 +35,5 @@ yolo task=detect mode=val model='CONVERGED_WEIGHTS/best.pt' data="DOD-5_moderate
   using the model CONVERGED_WEIGHTS/best.pt
 
 
+For full paper go to:
+https://www.sciencedirect.com/science/article/pii/S1574954124003303
