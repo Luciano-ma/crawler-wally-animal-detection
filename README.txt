@@ -34,3 +34,4 @@ yolo task=detect mode=val model='CONVERGED_WEIGHTS/best.pt' data="DOD-5_moderate
 
   using the model CONVERGED_WEIGHTS/best.pt
 
+
